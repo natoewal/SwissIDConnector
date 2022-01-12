@@ -2,7 +2,7 @@
 
 ## About
 
-SwissIDConnector is a lightweight class to interact with the SwissID IdP, supporting the full scope of functionality provided by the IdP in a manner that is not only easy, but also future-proof to the maximum extent possible as it relies on the basic concepts used by the SwissID IdP and on its dynamic configuration.
+SwissIDConnector is an unofficial lightweight class to interact with the SwissID IdP, supporting the full scope of functionality provided by the IdP in a manner that is not only easy, but also future-proof to the maximum extent possible as it relies on the basic concepts used by the SwissID IdP and on its dynamic configuration.
 
 For more information about SwissID, please visit [their website](https://www.swissid.ch)
 
